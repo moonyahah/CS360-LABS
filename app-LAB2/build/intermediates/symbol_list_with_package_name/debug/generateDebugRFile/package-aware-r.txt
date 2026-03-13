@@ -1,0 +1,22 @@
+com.example.listycity
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id add_city_layout
+id button
+id button2
+id city_input
+id city_list
+id confirm_btn
+id content_view
+id main
+layout activity_main
+layout content
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base_Theme_ListyCity
+style Theme_ListyCity
+xml backup_rules
+xml data_extraction_rules
